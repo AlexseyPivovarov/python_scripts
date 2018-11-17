@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Python/.idea/Python.iml" filepath="$PROJECT_DIR$/../Python/.idea/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Python Homeworks.iml" filepath="$PROJECT_DIR$/.idea/Python Homeworks.iml" />
+      <module fileurl="file://$USER_HOME$/Envs/flask/webApp/.idea/webApp.iml" filepath="$USER_HOME$/Envs/flask/webApp/.idea/webApp.iml" />
+    </modules>
+  </component>
+</project>

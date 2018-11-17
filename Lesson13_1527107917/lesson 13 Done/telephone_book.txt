@@ -1,0 +1,9 @@
+alexei¦name¿first_name¦Alexei¡second_name¦Pivovarov¡
+alexei¦tel ¿36546341¡654654
+alexei¦mail¿smaster@bigmir.net¡smaster@gmail.com
+nina¦name¿first_name¦Nina¡
+nina¦tel ¿5645464
+nina¦mail¿nina@bigmir.net
+inna¦name¿first_name¦Inna¡
+inna¦tel ¿5434654
+inna¦mail¿inna@bigmir.net

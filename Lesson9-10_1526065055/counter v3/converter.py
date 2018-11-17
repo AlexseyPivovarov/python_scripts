@@ -1,0 +1,7 @@
+file = open("ru_gen4.dic")
+lib = open("lib.py", "w")
+lib.write("vocabulary = (")
+lib.write("".join(['"' + word.strip() + '",' for word in file]))
+lib.write(")\n")
+file.close()
+lib.close()
